@@ -1,0 +1,9 @@
+@font-face
+{
+    font-family: arvo;
+    src: url(fonts/Arvo.ttf)
+}
+h1
+{
+    font-family: arvo;
+}
