@@ -1,0 +1,47 @@
+@font-face
+{
+    font-family: arvo;
+    src: url(fonts/Arvo.ttf)
+}
+@font-face
+{
+    font-family: OpenSans;
+    src: url(fonts/OpenSans.ttf)
+}
+h1
+{
+    font-family: arvo;
+}
+h2
+{
+    font-family: arvo;
+}
+p
+{
+    font-family: OpenSans;
+}
+td, th
+{
+    border: 2px solid aqua;
+    padding: 15px;
+    font-family: OpenSans;
+}
+table
+{
+    border-collapse: collapse;
+}
+th
+{
+    background-color: black;
+    font-size: 18px;
+}
+th
+{
+    color: aqua
+}
+body {
+    background-color: teal;
+}
+img {
+    border-radius: ;
+}
