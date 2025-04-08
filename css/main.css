@@ -11,10 +11,20 @@
 h1
 {
     font-family: arvo;
+    color: #FFB71B;
+}
+h1 :hover
+{
+color: #013C65;
+}
+li :hover
+{
+    color: #FFB71B;
 }
 h2
 {
     font-family: arvo;
+    color: #013C65;  
 }
 p
 {
@@ -40,8 +50,8 @@ th
     color: aqua
 }
 body {
-    background-color: teal;
+    background-color: grey;
 }
 img {
-    border-radius: ;
+    border-radius: 18pt;
 }
