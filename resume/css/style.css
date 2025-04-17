@@ -1,0 +1,61 @@
+@font-face
+{
+    font-family: arvo;
+    src: url(fonts/Arvo.ttf)
+}
+@font-face
+{
+    font-family: OpenSans;
+    src: url(fonts/OpenSans.ttf)
+}
+h1
+{
+    font-family: arvo;
+    color: #FFB71B;
+}
+h1 :hover
+{
+color: #013C65;
+}
+li :hover
+{
+    color: #FFB71B;
+}
+h2
+{
+    font-family: arvo;
+    color: #013C65;  
+}
+p
+{
+    font-family: OpenSans;
+}
+td, th
+{
+    border: 2px solid aqua;
+    padding: 15px;
+    font-family: OpenSans;
+}
+table
+{
+    border-collapse: collapse;
+}
+th
+{
+    background-color: black;
+    font-size: 18px;
+}
+th
+{
+    color: aqua
+}
+body {
+    background-color: lightgrey;
+}
+img {
+    border-radius: 18pt;
+}
+p
+{
+    color: black;
+}
